@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi There!
+
 I'm a CS undergraduate student. <br>Nowadays, My Learning Focus is Power BI, Tableau, Power Query, data visualization, business intelligence, and programming logic in C++, Java, Python.<br>I am Learning to transform complex data into actionable insights using Power BI, Tableau, Power Query, Python, C++, and Java.<br>I am Eager to collaborate on data visualization and analytics projects.<br>I have Advanced proficiency in MS Office tools. Use Power Query, Excel, Power BI, and Tableau to transform raw data into actionable insights.<br>I takes raw numbers, finds the hidden trends, and explains them through a simple, engaging narrative that helps people make better decisions.
 
 
