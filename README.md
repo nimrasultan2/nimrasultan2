@@ -1,6 +1,7 @@
 # Hi There!
+CS undergrad here, software dev in progress. i build stuff frontend apps, full-stack applications, dashboards, data tools. react on one side, python and power bi on the other. c++ and java when i'm feeling brave.
 
-I'm a CS undergraduate student. <br>Nowadays, My Learning Focus is Power BI, Tableau, Power Query, data visualization, business intelligence, and programming logic in C++, Java, Python.<br>I am Learning to transform complex data into actionable insights using Power BI, Tableau, Power Query, Python, C++, and Java.<br>I am Eager to collaborate on data visualization and analytics projects.<br>I have Advanced proficiency in MS Office tools. Use Power Query, Excel, Power BI, and Tableau to transform raw data into actionable insights.<br>I takes raw numbers, finds the hidden trends, and explains them through a simple, engaging narrative that helps people make better decisions.
+always building, always learning. down to collaborate on anything dev or data related.
 
 
 ## 🌐 Socials:
